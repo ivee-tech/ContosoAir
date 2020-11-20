@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/daradu/b5398405-db41-42ae-94fc-1ece3e7ebf6c/47b2cace-e2de-49cc-be9b-a251902972e8/_apis/work/boardbadge/ca2ddefc-bdfc-42e8-811b-750b44a2bcb8)](https://dev.azure.com/daradu/b5398405-db41-42ae-94fc-1ece3e7ebf6c/_boards/board/t/47b2cace-e2de-49cc-be9b-a251902972e8/Microsoft.RequirementCategory)
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 [![Build Status](https://dev.azure.com/daradu/test-esg-web/_apis/build/status/ivee-tech.ContosoAir?branchName=master)](https://dev.azure.com/daradu/test-esg-web/_build/latest?definitionId=106&branchName=master)
